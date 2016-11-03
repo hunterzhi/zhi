@@ -8,6 +8,7 @@ namespace Zhi.Comm.Lib
 {
     public static class CultureHelper
     {
+        // commit update
         // Include ONLY cultures you are implementing as views
         // first culture is the DEFAULT
         private static readonly Dictionary<String, bool> _cultures = new Dictionary<string, bool> {
