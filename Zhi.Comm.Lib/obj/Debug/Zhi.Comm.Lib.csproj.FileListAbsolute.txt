@@ -1,0 +1,4 @@
+D:\10_Project\ZHI\Zhi.Comm.Lib\bin\Debug\Zhi.Comm.Lib.dll
+D:\10_Project\ZHI\Zhi.Comm.Lib\bin\Debug\Zhi.Comm.Lib.pdb
+D:\10_Project\ZHI\Zhi.Comm.Lib\obj\Debug\Zhi.Comm.Lib.dll
+D:\10_Project\ZHI\Zhi.Comm.Lib\obj\Debug\Zhi.Comm.Lib.pdb

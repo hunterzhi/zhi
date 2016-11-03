@@ -1,0 +1,7 @@
+D:\10_Project\ZHI\Zhi.Comm.WebLib\bin\Debug\Zhi.Comm.WebLib.dll
+D:\10_Project\ZHI\Zhi.Comm.WebLib\bin\Debug\Zhi.Comm.WebLib.pdb
+D:\10_Project\ZHI\Zhi.Comm.WebLib\obj\Debug\Zhi.Comm.WebLib.csprojResolveAssemblyReference.cache
+D:\10_Project\ZHI\Zhi.Comm.WebLib\obj\Debug\Zhi.Comm.WebLib.dll
+D:\10_Project\ZHI\Zhi.Comm.WebLib\obj\Debug\Zhi.Comm.WebLib.pdb
+D:\10_Project\ZHI\Zhi.Comm.WebLib\bin\Debug\Zhi.Comm.Lib.dll
+D:\10_Project\ZHI\Zhi.Comm.WebLib\bin\Debug\Zhi.Comm.Lib.pdb
